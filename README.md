@@ -15,8 +15,9 @@ Version 1.0.0
 --- 
 
 ## Deployment
-Download the **SimpleCalculator.py** file. In the command line use following arguments for desirable action:
-'
+
+Download the **GuessMyNumber.py** file. In the command line use following arguments for desirable action:
+
 ---
 
 ## Testing
