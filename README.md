@@ -1,4 +1,4 @@
-# **GuessMyNumber**
+# **The Guess My Number**
 
 Version 1.0.0
 
