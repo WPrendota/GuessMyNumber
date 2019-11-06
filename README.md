@@ -21,7 +21,7 @@ Download the **GuessMyNumber.py** file. In the command line use following argume
 ---
 
 ## Testing
-The implemented calculator functions were checked by UnitTests attached in the **TestSimpleCalculator.py** file.
+In the progress.
 
 --- 
 
